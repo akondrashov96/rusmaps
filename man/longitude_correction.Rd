@@ -2,7 +2,7 @@
 % Please edit documentation in R/rusmaps.R
 \name{longitude_correction}
 \alias{longitude_correction}
-\title{longitude_correction (brief)}
+\title{Set positive values to negative longitudes}
 \usage{
 longitude_correction(x)
 }
@@ -11,12 +11,11 @@ longitude_correction(x)
 }
 \value{
 non-negative versions of longitued
+Non-negative versions of longitudes
 }
 \description{
-longitude_correction (more detailed)
-}
-\details{
-longitude_correction (even more detailed)
+longitude_correction() receives a vector of longitudes
+and turns them positive in case they are not.
 }
 \examples{
 longitude_correction(c(-3.5, 10.8))

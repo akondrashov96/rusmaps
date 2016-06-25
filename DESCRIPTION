@@ -1,19 +1,30 @@
 Package: rusmaps
 Type: Package
-Title: Load Russian economic indicators from sophist.hse.ru
+Title: Maps of Russia for visualisation of spatial data
 Version: 0.65
-Date: 2016-06-15
-Author: Boris Demeshev
-Maintainer: Boris Demeshev <boris.demeshev@gmail.com>
+Date: 2016-06-23
+Author: Artem Kondrashov
+Maintainer: Artem Kondrashov <akondrashov96@gmail.com>
 Depends:
-    R (>= 3.2)
+    R (>= 3.3.0)
 Imports:
-    XML,
-    RCurl,
-    zoo,
-    dplyr (>= 0.2),
-    stringr
-Description: Load Russian economic indicators from sophist.hse.ru.
+    ggplot2 (>= 2.1.0),
+    ggmap (>= 2.6.1),
+    plotly (>= 3.6.0),
+    rgdal (>= 1.1-10),
+    rgeos (>= 0.3-19),
+    maptools (>= 0.8-39),
+    tmap (>= 1.4-1),
+    gridExtra (>= 2.2.1),
+    leaflet (>= 1.0.1),
+    dplyr (>= 0.4.3),
+    tidyr (>= 0.5.0),
+    Cairo (>= 1.5-9),
+    RColorBrewer (>= 1.1-2),
+    webshot (>= 0.3),
+    htmlwidgets (>= 0.6),
+    scales (>= 0.4.0)
+Description: Maps of Russian Federal districts, subjects, and cities with population of over 1 million.
 License: GPL-3
 LazyData: true
 RoxygenNote: 5.0.1
