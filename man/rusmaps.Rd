@@ -9,6 +9,6 @@
 rusmaps
 }
 \author{
-Artem
+Artem Kondrashov
 }
 
