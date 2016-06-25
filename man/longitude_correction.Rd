@@ -10,7 +10,6 @@ longitude_correction(x)
 \item{x}{numeric vector of longitudes}
 }
 \value{
-non-negative versions of longitued
 Non-negative versions of longitudes
 }
 \description{

@@ -17,6 +17,6 @@ The function reads a file of SpatialPolygonsDataFrame and unifies
 polygons if they are separated by 180 meridian
 }
 \examples{
-restore180(cities)
+restore180(Voronezh)
 }
 

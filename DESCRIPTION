@@ -1,8 +1,8 @@
 Package: rusmaps
 Type: Package
 Title: Maps of Russia for visualisation of spatial data
-Version: 0.65
-Date: 2016-06-23
+Version: 0.1.2
+Date: 2016-06-26
 Author: Artem Kondrashov
 Maintainer: Artem Kondrashov <akondrashov96@gmail.com>
 Depends:

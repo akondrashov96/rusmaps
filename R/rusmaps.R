@@ -34,7 +34,7 @@ longitude_correction <- function(x) {
 #' @return Whole polygons, if they were cut by 180 meredian.
 #' @export
 #' @examples
-#' restore180(cities)
+#' restore180(Voronezh)
 
 restore180 <- function(y) {
   for (i in 1:length(y@polygons)) {
