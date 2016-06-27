@@ -4,7 +4,7 @@
 \name{Novosibirsk}
 \alias{Novosibirsk}
 \title{Administrative regions of Novosibirsk city}
-\format{A SpatialPointsDataFrame object with 10 polygons with following attibutes:
+\format{A SpatialPolygonsDataFrame object with 10 polygons with following attibutes:
 \describe{
  \item{id}{custom id assigned}
  \item{name}{region name}
@@ -12,7 +12,7 @@
  \item{pop_2016}{population in 2016, according to Rosstat}
  }}
 \source{
-Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat.
+Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
 }
 \usage{
 Novosibirsk

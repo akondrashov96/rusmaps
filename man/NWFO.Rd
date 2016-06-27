@@ -4,7 +4,7 @@
 \name{NWFO}
 \alias{NWFO}
 \title{North-Western Federal District}
-\format{A SpatialPointsDataFrame object with 11 polygons with following attibutes:
+\format{A SpatialPolygonsDataFrame object with 11 polygons with following attibutes:
 \describe{
  \item{id}{custom id assigned}
  \item{name}{region name}
@@ -14,7 +14,7 @@
  \item{pop_2016}{population in 2016, according to Rosstat}
  }}
 \source{
-Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat.
+Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
 }
 \usage{
 NWFO
