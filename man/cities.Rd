@@ -17,7 +17,7 @@ Obtained with QGIS using OpenStreetMap data. Data tables were customized. Popula
 cities
 }
 \description{
-The dataset contains names, population and coordinates of Russian cities with population greater than 1 million
+The dataset contains names, population and coordinates of Russian cities with population greater than 1 million.
 }
 \keyword{datasets}
 

@@ -1,7 +1,7 @@
 Package: rusmaps
 Type: Package
 Title: Maps of Russia for visualisation of spatial data
-Version: 0.2.0
+Version: 0.4.0
 Date: 2016-06-26
 Author: Artem Kondrashov
 Maintainer: Artem Kondrashov <akondrashov96@gmail.com>
@@ -23,7 +23,10 @@ Imports:
     RColorBrewer (>= 1.1-2),
     webshot (>= 0.3),
     htmlwidgets (>= 0.6),
-    scales (>= 0.4.0)
+    scales (>= 0.4.0),
+    geojsonio (>= 0.1.8),
+    V8 (>= 1.0.1),
+    datamos (>= 0.11)
 Description: Maps of Russian Federal districts, subjects, and cities with population of over 1 million.
 License: GPL-3
 LazyData: true
