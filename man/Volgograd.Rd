@@ -18,7 +18,7 @@ Obtained with QGIS using OpenStreetMap data. Data tables were customized. Popula
 Volgograd
 }
 \description{
-The dataset contains names, population (as of 2015) and administrative level of included regions
+The dataset contains names, population (as of 2015) and administrative level of included regions.
 }
 \keyword{datasets}
 
