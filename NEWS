@@ -1,3 +1,21 @@
+rusmaps 0.3.0
+-------------
+
+* Added the following maps:
+* Central Federal District
+* Far Eastern Federal District
+* Volga Federal District
+* Southern Federal District
+* North-Western Federal District
+* Siberian Federal District
+* North-Caucasus Federal District
+* Ural Federal District
+* Crimea Federal District
+* Russia with Federal Districts (2 versions)
+* Russia with Federal subjects (2 versions)
+* Khabarovsk region (including Khabarovsk city regions, banks and roads from OSM)
+
+
 rusmaps 0.2.0
 -------------
 
@@ -17,16 +35,17 @@ rusmaps 0.2.0
 * Ufa
 * Chelyabinsk
 
+
 rusmaps 0.1.2
 -------------
 
 * Added a map of Voronezh
 
+
 rusmaps 0.1.1
 -------------
 
 * Added a map of cities for testing
-
 
 
 rusmaps 0.1
