@@ -4,7 +4,7 @@
 \name{Moscow}
 \alias{Moscow}
 \title{Administrative regions of Moscow city}
-\format{A SpatialPointsDataFrame object with 12 polygons with following attibutes:
+\format{A SpatialPolygonsDataFrame object with 12 polygons with following attibutes:
 \describe{
  \item{id}{custom id assigned}
  \item{name}{region name}
@@ -13,7 +13,7 @@
  \item{pop_2015}{population in 2015, according to Rosstat}
  }}
 \source{
-Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat.
+Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
 }
 \usage{
 Moscow

@@ -4,7 +4,7 @@
 \name{rusmaps.dataframe}
 \alias{rusmaps.dataframe}
 \title{Maps in rusmaps package}
-\format{A SpatialPointsDataFrame object with 24 polygons with following attibutes:
+\format{A DataFrame object with 30 rows and following attibutes:
 \describe{
  \item{map_name}{name of dataset containing a map}
  \item{description}{what the dataset contains}
@@ -12,7 +12,7 @@
  \item{date}{relevance date}
  }}
 \source{
-Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat.
+Compiled from existing data.
 }
 \usage{
 rusmaps.dataframe
