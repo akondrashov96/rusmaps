@@ -8,7 +8,7 @@
 
 sudo: required                                     
 
-language: R
+language: c
 
 before_install:
   ## PPA for Rcpp and some other packages
