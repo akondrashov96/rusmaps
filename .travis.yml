@@ -1,5 +1,31 @@
 # R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
 
+
+# Sample .travis.yml for R projects.
+#
+# See https://github.com/craigcitro/r-travis 
+#     https://github.com/eddelbuettel/r-travis/
+
+sudo: required                                     
+
 language: R
-sudo: false
-cache: packages
+
+before_install:
+  ## PPA for Rcpp and some other packages
+  - sudo add-apt-repository -y ppa:edd/misc
+  ## r-travis by Craig Citro et al
+  - curl -OL http://raw.github.com/craigcitro/r-travis/master/scripts/travis-tool.sh
+  - chmod 755 ./travis-tool.sh
+  - ./travis-tool.sh bootstrap
+  - sudo apt-get install gdal-bin
+
+install:
+  - ./travis-tool.sh install_aptget r-cran-rgdal
+
+script: 
+  - ./travis-tool.sh run_tests
+
+notifications:
+  email:
+    on_success: change
+    on_failure: change
