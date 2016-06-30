@@ -1,4 +1,3 @@
-
 # Sample .travis.yml for R projects
 
 language: r
@@ -12,8 +11,7 @@ env:
 notifications:
   email:
     on_success: change
-	on_failure: change
-	
+    on_failure: change
 
 r_packages:
   - devtools
