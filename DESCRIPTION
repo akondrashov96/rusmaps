@@ -6,27 +6,10 @@ Date: 2016-06-26
 Author: Artem Kondrashov
 Maintainer: Artem Kondrashov <akondrashov96@gmail.com>
 Depends:
-    R (>= 3.3.0)
-Imports:
-    ggplot2 (>= 2.1.0),
-    ggmap (>= 2.6.1),
-    plotly (>= 3.6.0),
-    rgdal (>= 1.1-10),
-    rgeos (>= 0.3-19),
-    maptools (>= 0.8-39),
-    tmap (>= 1.4-1),
-    gridExtra (>= 2.2.1),
-    leaflet (>= 1.0.1),
-    dplyr (>= 0.4.3),
-    tidyr (>= 0.5.0),
-    Cairo (>= 1.5-9),
-    RColorBrewer (>= 1.1-2),
-    webshot (>= 0.3),
-    htmlwidgets (>= 0.6),
-    scales (>= 0.4.0),
-    geojsonio (>= 0.1.8),
-    V8 (>= 1.0.1),
-    datamos (>= 0.11)
+    R (>= 3.1)
+Suggests:
+    leaflet (>= 1.0),
+    rgdal (>= 0.8-16)
 Description: Maps of Russian Federal districts, subjects, and cities with population of over 1 million.
 License: GPL-3
 LazyData: true
