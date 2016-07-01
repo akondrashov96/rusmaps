@@ -12,7 +12,7 @@
  \item{pop_2015}{population in 2015, according to Rosstat}
  }}
 \source{
-Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 }
 \usage{
 Kazan
