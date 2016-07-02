@@ -8,7 +8,7 @@
 #'  \item{name}{city name}
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "cities"
 
 #' Administrative regions of Voronezh city
@@ -22,7 +22,7 @@
 #'  \item{admin_lvl}{administrative level of the region}
 #'  \item{pop_2010}{population in 2010, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Voronezh"
 
 #' Administrative regions of Nizhniy Novgorod city
@@ -36,7 +36,7 @@
 #'  \item{admin_lvl}{administrative level of the region}
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Novgorod"
 
 #' Administrative regions of Novosibirsk city
@@ -50,7 +50,7 @@
 #'  \item{admin_lvl}{administrative level of the region}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Novosibirsk"
 
 #' Administrative regions of Omsk city
@@ -64,7 +64,7 @@
 #'  \item{admin_lvl}{administrative level of the region}
 #'  \item{pop_2010}{population in 2010, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Omsk"
 
 #' Administrative regions of Perm city
@@ -78,7 +78,7 @@
 #'  \item{admin_lvl}{administrative level of the region}
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Perm"
 
 #' Administrative regions of Rostov-na-Donu city
@@ -92,7 +92,7 @@
 #'  \item{admin_lvl}{administrative level of the region}
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Rostov"
 
 #' Administrative regions of Samara city
@@ -106,7 +106,7 @@
 #'  \item{admin_lvl}{administrative level of the region}
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Samara"
 
 #' Administrative regions of Saint-Petersburg city
@@ -121,7 +121,7 @@
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "StPetersburg"
 
 #' Administrative regions of Ufa city
@@ -135,7 +135,7 @@
 #'  \item{admin_lvl}{administrative level of the region}
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Ufa"
 
 #' Administrative regions of Chelyabinsk city
@@ -149,7 +149,7 @@
 #'  \item{admin_lvl}{administrative level of the region}
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Chelyabinsk"
 
 #' Administrative regions of Moscow city
@@ -164,7 +164,7 @@
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Moscow"
 
 #' Administrative regions of Krasnoyarsk city
@@ -178,7 +178,7 @@
 #'  \item{admin_lvl}{administrative level of the region}
 #'  \item{pop_2010}{population in 2010, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Krasnoyarsk"
 
 #' Administrative regions of Kazan city
@@ -192,7 +192,7 @@
 #'  \item{admin_lvl}{administrative level of the region}
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Kazan"
 
 #' Administrative regions of Ekaterinburg city
@@ -206,7 +206,7 @@
 #'  \item{admin_lvl}{administrative level of the region}
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Ekaterinburg"
 
 #' Administrative regions of Volgograd city
@@ -220,12 +220,12 @@
 #'  \item{admin_lvl}{administrative level of the region}
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  }
-#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Volgograd"
 
 #' Federal districts of Russia
 #'
-#' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions. 
+#' The dataset contains names, population (as of 2015 and 2016) and administrative level of included regions.
 #'
 #' @format A SpatialPolygonsDataFrame object with 8 polygons with following attibutes:
 #' \describe{
@@ -235,7 +235,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "rus_fd_nc"
 
 #' Federal districts of Russia
@@ -250,7 +250,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from GISLAB. QGIS was used to simplify geometry, to add Crimea Federal District and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from GISLAB. QGIS was used to simplify geometry, to add Crimea Federal District and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "rus_fd"
 
 #' Federal subjects of Russia
@@ -266,7 +266,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from GISLAB. QGIS was used to simplify geometry, to add Crimea Federal District and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from GISLAB. QGIS was used to simplify geometry, to add Crimea Federal District and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "rus_sub"
 
 #' Federal subjects of Russia
@@ -282,7 +282,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "rus_sub_nc"
 
 #' Far Eastern Federal District
@@ -298,7 +298,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "DFO"
 
 #' Crimea Federal District
@@ -314,7 +314,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from OpenStreetMap. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from OpenStreetMap. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "KFO"
 
 #' Volga Federal District
@@ -330,7 +330,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "VFO"
 
 #' North-Western Federal District
@@ -346,7 +346,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "NWFO"
 
 #' North-Caucasus Federal District
@@ -362,7 +362,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "NCFO"
 
 #' Siberia Federal District
@@ -378,7 +378,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "SFO"
 
 #' Ural Federal District
@@ -394,7 +394,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "UFO"
 
 #' Central Federal District
@@ -410,7 +410,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "CentralFO"
 
 #' Southern Federal District
@@ -426,7 +426,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "SouthFO"
 
 #' Khabarovsk region municipal districts and Khabarovsk city districts
@@ -441,7 +441,7 @@
 #'  \item{pop_2015}{population in 2015, according to Rosstat}
 #'  \item{pop_2016}{population in 2016, according to Rosstat}
 #'  }
-#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+#' @source Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 "Khabarovsk"
 
 #' Maps in rusmaps package

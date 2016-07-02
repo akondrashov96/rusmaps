@@ -13,7 +13,7 @@
  \item{pop_2016}{population in 2016, according to Rosstat}
  }}
 \source{
-Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData©OpenStreetMap
+Obtained from GISLAB. QGIS was used to simplify geometry and to customize data table. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 }
 \usage{
 rus_fd_nc
