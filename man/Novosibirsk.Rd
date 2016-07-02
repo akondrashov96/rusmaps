@@ -12,7 +12,7 @@
  \item{pop_2016}{population in 2016, according to Rosstat}
  }}
 \source{
-Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData©OpenStreetMap
+Obtained with QGIS using OpenStreetMap data. Data tables were customized. Population data retrieved from Rosstat. MapData(c)OpenStreetMap
 }
 \usage{
 Novosibirsk
