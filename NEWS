@@ -1,7 +1,13 @@
 rusmaps 0.5.0
 -------------
 
-* Updated REAME.md
+* Fixed dataframe convertation issue
+
+
+rusmaps 0.5.0
+-------------
+
+* Updated README.md
 * Added travis
 
 
